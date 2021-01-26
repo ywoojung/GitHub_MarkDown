@@ -27,4 +27,4 @@ ex) ![이미지 URL 삽입 테스트](https://www.bloter.net/wp-content/uploads/
 ```
 <img width="300" src="https://www.bloter.net/wp-content/uploads/2015/12/NaverCast_GitHub_Logo-800x296.jpg">
 ```
-<img src="https://www.bloter.net/wp-content/uploads/2015/12/NaverCast_GitHub_Logo-800x296.jpg">
+<img width="500" src="https://www.bloter.net/wp-content/uploads/2015/12/NaverCast_GitHub_Logo-800x296.jpg">
