@@ -1,6 +1,7 @@
 # GitHub Markdown
 
 
+
 ## 제목(글머리) 작성
 
 ```
@@ -13,23 +14,6 @@
 ```
 
 
-## 이미지 업로드 방법
-
-- 마크다운으로 이미지 삽입
-```
-![이미지 설명](이미지주소)
-
-ex) ![이미지 URL 삽입 테스트](https://www.bloter.net/wp-content/uploads/2015/12/NaverCast_GitHub_Logo-800x296.jpg)
-```
-![이미지 URL 삽입 테스트](https://www.bloter.net/wp-content/uploads/2015/12/NaverCast_GitHub_Logo-800x296.jpg)
-
-
-- <img> 태그로 이미지 삽입
-```
-<img width="300" src="https://www.bloter.net/wp-content/uploads/2015/12/NaverCast_GitHub_Logo-800x296.jpg">
-```
-<img width="500" src="https://www.bloter.net/wp-content/uploads/2015/12/NaverCast_GitHub_Logo-800x296.jpg">
-
 
 ## 번호 없는 리스트 작성
 ```
@@ -38,6 +22,7 @@ ex) ![이미지 URL 삽입 테스트](https://www.bloter.net/wp-content/uploads/
 +
 ```
 - 예시 입니다
+
 
 
 ## 번호 있는 리스트 작성
@@ -50,6 +35,7 @@ ex) ![이미지 URL 삽입 테스트](https://www.bloter.net/wp-content/uploads/
 2. 예시 2
 
 
+
 ## 이텔릭체
 ```
 *텍스트*
@@ -58,12 +44,22 @@ _텍스트_
 *예시입니다*
 
 
+
 ## 굵은글씨
 ```
 **텍스트**
 __텍스트__
 ```
 **예시입니다**
+
+
+
+## 글씨 취소선
+```
+~~텍스트~~
+```
+~~예시입니다~~
+
 
 
 ## 인용
@@ -75,12 +71,14 @@ __텍스트__
 >> 예시입니다
 
 
+
 ## 수평선
 ```
 ***
 ---
 ```
 ---
+
 
 
 ## 체크박스
@@ -92,12 +90,6 @@ __텍스트__
 - [ ] 체크 되지 않은 체크박스
 
 
-## 글씨 취소선
-```
-~~텍스트~~
-```
-~~예시입니다~~
-
 
 ## 줄바꿈
 ```
@@ -107,6 +99,7 @@ ex) from
 ```
 from  
 to
+
 
 
 ## 문단 구분
@@ -123,8 +116,29 @@ ex) 문단1
 두번째 문단입니다.
 
 
+
 ## 링크 삽입
 ```
 [링크명](URL)
 ```
 [NAVER로 이동하기](https://www.naver.com/)
+
+
+
+## 이미지 업로드 방법
+
+- 마크다운으로 이미지 삽입
+```
+![이미지 설명](이미지주소)
+
+ex) ![이미지 URL 삽입 테스트](https://www.bloter.net/wp-content/uploads/2015/12/NaverCast_GitHub_Logo-800x296.jpg)
+```
+![이미지 URL 삽입 테스트](https://www.bloter.net/wp-content/uploads/2015/12/NaverCast_GitHub_Logo-800x296.jpg)
+
+
+
+- <img> 태그로 이미지 삽입
+```
+<img width="300" src="https://www.bloter.net/wp-content/uploads/2015/12/NaverCast_GitHub_Logo-800x296.jpg">
+```
+<img width="500" src="https://www.bloter.net/wp-content/uploads/2015/12/NaverCast_GitHub_Logo-800x296.jpg">
