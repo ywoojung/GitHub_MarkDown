@@ -127,4 +127,4 @@ ex) 문단1
 ```
 [링크명](URL)
 ```
-[NAVER로 이동하기](www.naver.com)
+[NAVER로 이동하기](https://www.naver.com/)
