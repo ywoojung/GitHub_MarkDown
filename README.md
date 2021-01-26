@@ -1,2 +1,3 @@
-# GitHub_basic
-GitHub_basic infomation
+# Infomation GitHub
+
+###오홍
