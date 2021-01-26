@@ -27,4 +27,4 @@ ex) ![이미지 URL 삽입 테스트](https://www.bloter.net/wp-content/uploads/
 ```
 <img width="300" src="https://media.vlpt.us/images/nunddu/post/2fa7d0a0-3f8a-4087-9ded-dfdf511a2583/github.png">
 ```
-<img width="300" src="https://media.vlpt.us/images/nunddu/post/2fa7d0a0-3f8a-4087-9ded-dfdf511a2583/github.png">
+<img src="https://media.vlpt.us/images/nunddu/post/2fa7d0a0-3f8a-4087-9ded-dfdf511a2583/github.png">
