@@ -33,7 +33,9 @@ ex) ![이미지 URL 삽입 테스트](https://www.bloter.net/wp-content/uploads/
 
 ## 번호 없는 리스트 작성
 ```
-* | - | +
+*
+-
++
 ```
 - 예시 입니다
 
@@ -46,3 +48,11 @@ ex) ![이미지 URL 삽입 테스트](https://www.bloter.net/wp-content/uploads/
 ```
 1. 예시 1
 2. 예시 2
+
+
+## 이텔릭체
+```
+**텍스트**
+__텍스트__
+```
+**예시입니다**
