@@ -1,6 +1,7 @@
 # GitHub Markdown
+---
 
-### 제목(글머리) 작성
+## 제목(글머리) 작성
 
 ```
 # H1
@@ -11,18 +12,13 @@
 ###### H6
 ```
 
-# 예시입니다
-## 예시입니다
-### 예시입니다
-#### 예시입니다
 
+## 이미지 업로드 방법
 
-### 이미지 업로드 방법
-***
 - 마크다운으로 이미지 삽입
-
 ```
-![이미지 URL 삽입 테스트](https://media.vlpt.us/images/cyongchoi/post/9f4a8b71-bdf4-4266-b25c-40fc5e29d761/asasf.png)
+![텍스트](이미지주소)
+ex) ![이미지 URL 삽입 테스트](https://media.vlpt.us/images/cyongchoi/post/9f4a8b71-bdf4-4266-b25c-40fc5e29d761/asasf.png)
 ```
 ![이미지 URL 삽입 테스트](https://media.vlpt.us/images/cyongchoi/post/9f4a8b71-bdf4-4266-b25c-40fc5e29d761/asasf.png)
 
